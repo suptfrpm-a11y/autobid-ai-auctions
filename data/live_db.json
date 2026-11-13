@@ -1,0 +1,765 @@
+{
+  "userBids": {},
+  "watchlists": {},
+  "users": {
+    "vlebjWnuh2btBMvs8VYloFDob8O2": {
+      "id": "vlebjWnuh2btBMvs8VYloFDob8O2",
+      "email": "mmwajnnd@gmail.com",
+      "username": "mmwaj_nnd",
+      "fullName": "Mmwaj Nnd (Admin)",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIId9Tot6dsNngvkeZ18aosz3KgelULQB4rHTMZtTcWaWLqMw=s96-c",
+      "role": "admin",
+      "isVerified": true,
+      "verificationStatus": "verified",
+      "deposits": 100000,
+      "totalCommissionPaid": 0,
+      "followers": 0,
+      "following": 0,
+      "followingIds": [],
+      "followersIds": [],
+      "bio": "AutoBid Master Administrator",
+      "isDeleted": false,
+      "suspensionStatus": "none",
+      "phoneNumber": "",
+      "phoneVerified": true,
+      "agreedToTerms": true,
+      "agreedToTermsAt": 1794143200459,
+      "createdAt": 1794143200459,
+      "hasStockInsightsAccess": true,
+      "currentIp": "122.161.50.84",
+      "ipHistory": [
+        "122.161.50.84",
+        "49.36.128.90"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "browserHistory": [
+        "Chrome 128 (Windows)",
+        "Safari 17 (macOS)"
+      ],
+      "lastActiveAt": 1794251876482,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794143200459,
+          "event": "signup",
+          "ip": "49.36.128.90",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794150400459,
+          "event": "browser_switch",
+          "ip": "122.161.50.84",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Apple Darwin",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Safari 17 (macOS)"
+        },
+        {
+          "timestamp": 1794154000459,
+          "event": "browser_switch",
+          "ip": "122.161.50.84",
+          "browser": "Chrome Mobile 128 (Android)",
+          "device": "Mobile Device",
+          "os": "Android 14",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Chrome Mobile 128 (Android)"
+        },
+        {
+          "timestamp": 1794161200459,
+          "event": "ip_switch",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Network transition: IP rotated to 122.161.50.84"
+        },
+        {
+          "timestamp": 1794251876482,
+          "event": "login",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Session last verified active"
+        }
+      ]
+    },
+    "FEVL8LXpM5VTntkoHpTrJCIoc0f2": {
+      "id": "FEVL8LXpM5VTntkoHpTrJCIoc0f2",
+      "username": "mmwaj_nnd",
+      "email": "mmwajnnd@gmail.com",
+      "role": "admin",
+      "deposits": 99000,
+      "createdAt": 1794153315467,
+      "currentIp": "43.249.219.125",
+      "ipHistory": [
+        "43.249.219.125",
+        "43.249.219.122",
+        "43.249.219.124",
+        "43.249.219.123",
+        "43.249.219.126"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "browserHistory": [
+        "Chrome 128 (Windows)"
+      ],
+      "device": "Desktop (PC)",
+      "os": "Windows 11",
+      "isOnline": true,
+      "lastActiveAt": 1794482061918,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794153315467,
+          "event": "signup",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794482056892,
+          "event": "heartbeat",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Active session heartbeat live"
+        }
+      ],
+      "phoneVerified": false,
+      "agreedToTermsAt": 1794153315467,
+      "isVerified": true,
+      "following": 0,
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIId9Tot6dsNngvkeZ18aosz3KgelULQB4rHTMZtTcWaWLqMw=s96-c",
+      "followersIds": [],
+      "phoneNumber": "",
+      "verificationStatus": "verified",
+      "followers": 0,
+      "totalCommissionPaid": 0,
+      "fullName": "Mmwaj Nnd",
+      "isDeleted": false,
+      "followingIds": [],
+      "bio": "AutoBid Master Administrator.",
+      "hasStockInsightsAccess": true,
+      "suspensionStatus": "none",
+      "agreedToTerms": true,
+      "updatedAt": 1794252494035
+    },
+    "test_revocation_user": {
+      "id": "test_revocation_user",
+      "username": "test_user",
+      "email": "test@autobid.com",
+      "role": "user",
+      "deposits": 0,
+      "createdAt": 1794252351592,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794252351592,
+          "event": "signup",
+          "ip": "14.139.241.82",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794270351592,
+          "event": "ip_switch",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Network transition: IP rotated to 122.161.50.84"
+        },
+        {
+          "timestamp": 1794252351593,
+          "event": "login",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Session last verified active"
+        }
+      ],
+      "currentIp": "122.161.50.84",
+      "ipHistory": [
+        "122.161.50.84"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "browserHistory": [
+        "Chrome 128 (Windows)"
+      ],
+      "device": "Desktop",
+      "os": "Windows 11",
+      "isOnline": true,
+      "lastActiveAt": 1794252351593
+    },
+    "user_alpha": {
+      "id": "user_alpha",
+      "username": "user_alpha",
+      "email": "user_alpha@autobid.com",
+      "role": "user",
+      "deposits": 0,
+      "createdAt": 1794252400398,
+      "isRevoked": false,
+      "isOnline": true,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794252400398,
+          "event": "signup",
+          "ip": "122.161.50.84",
+          "browser": "Safari Mobile 17 (iOS)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794259600398,
+          "event": "browser_switch",
+          "ip": "122.161.50.84",
+          "browser": "Safari Mobile 17 (iOS)",
+          "device": "Mobile Device",
+          "os": "Apple Darwin",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Safari Mobile 17 (iOS)"
+        },
+        {
+          "timestamp": 1794252405875,
+          "event": "login",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Session last verified active"
+        }
+      ],
+      "loginTime": 1794252405857,
+      "currentIp": "122.161.50.84",
+      "ipHistory": [
+        "122.161.50.84"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "browserHistory": [
+        "Chrome 128 (Windows)"
+      ],
+      "device": "Desktop",
+      "os": "Windows 11",
+      "lastActiveAt": 1794252405875
+    },
+    "YmLKNQoDQARm4Z0Gqzz082qxTdD2": {
+      "isVerified": false,
+      "deposits": 0,
+      "following": 0,
+      "totalCommissionPaid": 0,
+      "suspensionStatus": "none",
+      "agreedToTermsAt": 1794251504976,
+      "followingIds": [],
+      "followersIds": [],
+      "agreedToTerms": true,
+      "fullName": "Mohit Kumar Jangid",
+      "id": "YmLKNQoDQARm4Z0Gqzz082qxTdD2",
+      "hasStockInsightsAccess": false,
+      "isDeleted": false,
+      "followers": 0,
+      "phoneNumber": "",
+      "email": "urangting490@gmail.com",
+      "verificationStatus": "unverified",
+      "createdAt": 1794251504976,
+      "phoneVerified": false,
+      "role": "user",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocI5oMeA5IRqccZKVZ83q2SL8kEZIRb6t-U_PG_-qfEHt4ig=s96-c",
+      "username": "mohit_kumar_jangid",
+      "bio": "New member at AutoBid.",
+      "updatedAt": 1794253015844,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794251504976,
+          "event": "signup",
+          "ip": "106.215.88.33",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794258704976,
+          "event": "browser_switch",
+          "ip": "43.249.219.125",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Apple Darwin",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Safari 17 (macOS)"
+        },
+        {
+          "timestamp": 1794269504976,
+          "event": "ip_switch",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Network transition: IP rotated to 43.249.219.125"
+        },
+        {
+          "timestamp": 1794482044219,
+          "event": "heartbeat",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Active session heartbeat live"
+        }
+      ],
+      "currentIp": "43.249.219.125",
+      "ipHistory": [
+        "43.249.219.125",
+        "43.249.219.123",
+        "43.249.219.124",
+        "43.249.219.122"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "browserHistory": [
+        "Chrome 128 (Windows)"
+      ],
+      "device": "Desktop (PC)",
+      "os": "Windows 11",
+      "isOnline": true,
+      "lastActiveAt": 1794482044219
+    }
+  },
+  "vehicles": {},
+  "bids": {},
+  "notifications": [],
+  "support_tickets": {
+    "tkt_ai_1793561728954_csco": {
+      "id": "tkt_ai_1793561728954_csco",
+      "userId": "user_urangting490",
+      "username": "urangting490",
+      "userEmail": "urangting490@gmail.com",
+      "category": "ai_escalation",
+      "subject": "Autonomous AI Support Ticket Escalation",
+      "description": "Official support ticket created via AutoBid AI Agent. Escalated to admin support team for urangting490@gmail.com with full conversation transcript.",
+      "status": "open",
+      "source": "ai_agent",
+      "createdAt": 1793561728954
+    }
+  },
+  "support_chats": {},
+  "identity_verifications": {},
+  "appeals": {},
+  "withdrawals": {},
+  "transactions": {
+    "TXN_FAIL_1794482065017_DZIZ": {
+      "id": "TXN_FAIL_1794482065017_DZIZ",
+      "transactionId": "TXN_FAIL_1794482065017_DZIZ",
+      "userId": "test_user_123",
+      "username": "horxpatell",
+      "userEmail": "horxpatell@gmail.com",
+      "phoneNumber": "+91 98765 43210",
+      "type": "deposit_failed",
+      "amount": 5000,
+      "description": "Failed Deposit Attempt (Order: ORD_FAIL_1794482065017)",
+      "timestamp": 1794482065017,
+      "status": "failed",
+      "paymentMethod": "upi",
+      "paymentMethodDetails": "UPI (Exited before authorization)",
+      "paymentId": "pay_fail_1794482065017",
+      "orderId": "ORD_FAIL_1794482065017",
+      "gatewayOrderNumber": "ORD_FAIL_1794482065017",
+      "autobidOrderId": "ORD_FAIL_1794482065017",
+      "utr": "239459172567",
+      "failureReason": "Payment dismissed in-between checkout modal",
+      "channel": "ct_account",
+      "gatewayResponse": {
+        "gateway": "Razorpay PG",
+        "status": "failed",
+        "order_id": "ORD_FAIL_1794482065017",
+        "error_code": "PAYMENT_CANCELLED_OR_DISMISSED",
+        "error_description": "Payment dismissed in-between checkout modal",
+        "metadata": {}
+      }
+    }
+  },
+  "usernames": {
+    "mmwaj_nnd": "vlebjWnuh2btBMvs8VYloFDob8O2"
+  },
+  "collections": {
+    "stock": {}
+  },
+  "ai_chats": {},
+  "sessions": {
+    "vlebjWnuh2btBMvs8VYloFDob8O2": {
+      "id": "sess_vlebjWnuh2btBMvs8VYloFDob8O2",
+      "userId": "vlebjWnuh2btBMvs8VYloFDob8O2",
+      "username": "mmwaj_nnd",
+      "email": "mmwajnnd@gmail.com",
+      "role": "admin",
+      "currentIp": "122.161.50.84",
+      "previousIps": [
+        "49.36.128.90"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "previousBrowsers": [
+        "Safari 17 (macOS)",
+        "Chrome Mobile 128 (Android)"
+      ],
+      "distinctBrowsers": [
+        "Chrome 128 (Windows)",
+        "Safari 17 (macOS)",
+        "Chrome Mobile 128 (Android)"
+      ],
+      "distinctBrowsersCount": 3,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794143200459,
+          "event": "signup",
+          "ip": "49.36.128.90",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794150400459,
+          "event": "browser_switch",
+          "ip": "122.161.50.84",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Apple Darwin",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Safari 17 (macOS)"
+        },
+        {
+          "timestamp": 1794154000459,
+          "event": "browser_switch",
+          "ip": "122.161.50.84",
+          "browser": "Chrome Mobile 128 (Android)",
+          "device": "Mobile Device",
+          "os": "Android 14",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Chrome Mobile 128 (Android)"
+        },
+        {
+          "timestamp": 1794161200459,
+          "event": "ip_switch",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Network transition: IP rotated to 122.161.50.84"
+        },
+        {
+          "timestamp": 1794251876482,
+          "event": "login",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Session last verified active"
+        }
+      ],
+      "device": "Desktop PC",
+      "os": "Windows 11",
+      "isOnline": false,
+      "lastActiveAt": 1794251876482,
+      "loginTime": 1794143200459,
+      "status": "active"
+    },
+    "FEVL8LXpM5VTntkoHpTrJCIoc0f2": {
+      "id": "sess_FEVL8LXpM5VTntkoHpTrJCIoc0f2",
+      "userId": "FEVL8LXpM5VTntkoHpTrJCIoc0f2",
+      "username": "mmwaj_nnd",
+      "email": "mmwajnnd@gmail.com",
+      "role": "admin",
+      "currentIp": "43.249.219.125",
+      "previousIps": [
+        "43.249.219.122",
+        "43.249.219.124",
+        "43.249.219.123",
+        "43.249.219.126"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "previousBrowsers": [],
+      "distinctBrowsers": [
+        "Chrome 128 (Windows)"
+      ],
+      "distinctBrowsersCount": 1,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794153315467,
+          "event": "signup",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794482056892,
+          "event": "heartbeat",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Active session heartbeat live"
+        }
+      ],
+      "device": "Desktop (PC)",
+      "os": "Windows 11",
+      "isOnline": true,
+      "lastActiveAt": 1794482061918,
+      "loginTime": 1794153315467,
+      "status": "active"
+    },
+    "test_revocation_user": {
+      "id": "sess_test_revocation_user",
+      "userId": "test_revocation_user",
+      "username": "test_user",
+      "email": "test@autobid.com",
+      "role": "user",
+      "currentIp": "122.161.50.84",
+      "previousIps": [
+        "14.139.241.82"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "previousBrowsers": [],
+      "distinctBrowsers": [
+        "Chrome 128 (Windows)"
+      ],
+      "distinctBrowsersCount": 1,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794252351592,
+          "event": "signup",
+          "ip": "14.139.241.82",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794270351592,
+          "event": "ip_switch",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Network transition: IP rotated to 122.161.50.84"
+        },
+        {
+          "timestamp": 1794252351593,
+          "event": "login",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Session last verified active"
+        }
+      ],
+      "device": "Desktop PC",
+      "os": "Windows 11",
+      "isOnline": false,
+      "lastActiveAt": 1794252351593,
+      "loginTime": 1794252351592,
+      "status": "active"
+    },
+    "user_alpha": {
+      "id": "sess_user_alpha",
+      "userId": "user_alpha",
+      "username": "user_alpha",
+      "email": "user_alpha@autobid.com",
+      "role": "user",
+      "currentIp": "122.161.50.84",
+      "previousIps": [],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "previousBrowsers": [
+        "Safari Mobile 17 (iOS)"
+      ],
+      "distinctBrowsers": [
+        "Chrome 128 (Windows)",
+        "Safari Mobile 17 (iOS)"
+      ],
+      "distinctBrowsersCount": 2,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794252400398,
+          "event": "signup",
+          "ip": "122.161.50.84",
+          "browser": "Safari Mobile 17 (iOS)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794259600398,
+          "event": "browser_switch",
+          "ip": "122.161.50.84",
+          "browser": "Safari Mobile 17 (iOS)",
+          "device": "Mobile Device",
+          "os": "Apple Darwin",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Safari Mobile 17 (iOS)"
+        },
+        {
+          "timestamp": 1794252405875,
+          "event": "login",
+          "ip": "122.161.50.84",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Session last verified active"
+        }
+      ],
+      "device": "Desktop PC",
+      "os": "Windows 11",
+      "isOnline": false,
+      "lastActiveAt": 1794252405875,
+      "loginTime": 1794252400398,
+      "status": "active"
+    },
+    "YmLKNQoDQARm4Z0Gqzz082qxTdD2": {
+      "id": "sess_YmLKNQoDQARm4Z0Gqzz082qxTdD2",
+      "userId": "YmLKNQoDQARm4Z0Gqzz082qxTdD2",
+      "username": "mohit_kumar_jangid",
+      "email": "urangting490@gmail.com",
+      "role": "user",
+      "currentIp": "43.249.219.125",
+      "previousIps": [
+        "106.215.88.33"
+      ],
+      "currentBrowser": "Chrome 128 (Windows)",
+      "previousBrowsers": [
+        "Safari 17 (macOS)"
+      ],
+      "distinctBrowsers": [
+        "Chrome 128 (Windows)",
+        "Safari 17 (macOS)"
+      ],
+      "distinctBrowsersCount": 2,
+      "deviceTimeline": [
+        {
+          "timestamp": 1794251504976,
+          "event": "signup",
+          "ip": "106.215.88.33",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Account registered and initial browser security profile established"
+        },
+        {
+          "timestamp": 1794258704976,
+          "event": "browser_switch",
+          "ip": "43.249.219.125",
+          "browser": "Safari 17 (macOS)",
+          "device": "Desktop PC",
+          "os": "Apple Darwin",
+          "status": "active",
+          "details": "Multi-browser login detected: Logged in on Safari 17 (macOS)"
+        },
+        {
+          "timestamp": 1794269504976,
+          "event": "ip_switch",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Network transition: IP rotated to 43.249.219.125"
+        },
+        {
+          "timestamp": 1794482044219,
+          "event": "heartbeat",
+          "ip": "43.249.219.125",
+          "browser": "Chrome 128 (Windows)",
+          "device": "Desktop PC",
+          "os": "Windows 11",
+          "status": "active",
+          "details": "Active session heartbeat live"
+        }
+      ],
+      "device": "Desktop PC",
+      "os": "Windows 11",
+      "isOnline": true,
+      "lastActiveAt": 1794482044219,
+      "loginTime": 1794251504976,
+      "status": "active"
+    }
+  },
+  "revokedUserIds": {},
+  "content_banners": {
+    "banner_ai_supercar_carousel": {
+      "id": "banner_ai_supercar_carousel",
+      "title": "AutoBid Premier Live Auctions & Supercar Drop",
+      "subtitle": "Bid on authenticated luxury supercars, verified salvage exotics, and daily drivers with real-time transparent bidding.",
+      "imageUrl": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1600&q=80",
+      "targetUrl": "/auctions",
+      "position": "hero",
+      "isActive": true,
+      "isCarousel": true,
+      "badge": "🔥 LIVE AUCTIONS DAILY",
+      "ctaText": "Explore Live Auctions →",
+      "slides": [
+        {
+          "id": "slide_1",
+          "title": "AutoBid Premier Live Auctions (Updated)",
+          "subtitle": "Bid on authenticated luxury supercars, verified salvage exotics, and daily drivers with real-time transparent bidding.",
+          "imageUrl": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1600&q=80",
+          "targetUrl": "/auctions?filter=luxury",
+          "badge": "🔥 LIVE AUCTIONS DAILY",
+          "ctaText": "Explore Live Auctions →"
+        },
+        {
+          "id": "slide_2",
+          "title": "Zero Seller Listing Fees This Weekend",
+          "subtitle": "List your sports car or trade vehicle with instant RC verification, professional HD video inspections, and verified buyer reach.",
+          "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1600&q=80",
+          "targetUrl": "/sell",
+          "badge": "⚡ SPECIAL PROMOTION",
+          "ctaText": "List Your Vehicle Free →"
+        },
+        {
+          "id": "slide_3",
+          "title": "Unlock Stock Insights Analytics",
+          "subtitle": "Gain algorithmic valuation predictions, historical bid velocity data, and market resale margins before placing your bids.",
+          "imageUrl": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1600&q=80",
+          "targetUrl": "/wallet",
+          "badge": "🧠 AI STOCK INTEL",
+          "ctaText": "Unlock Analytics Intel →"
+        }
+      ],
+      "createdAt": 1794337345515,
+      "updatedAt": 1794338058480
+    }
+  },
+  "hasInitializedBanners": true,
+  "ai_brain_sessions": {},
+  "ai_brain_history": []
+}

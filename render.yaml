@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: autobid-ai-auctions
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: RAZORPAY_CT_KEY_ID
+        sync: false
+      - key: RAZORPAY_CT_KEY_SECRET
+        sync: false
+      - key: RAZORPAY_CB_KEY_ID
+        sync: false
+      - key: RAZORPAY_CB_KEY_SECRET
+        sync: false
